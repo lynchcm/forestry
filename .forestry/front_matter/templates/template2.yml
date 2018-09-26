@@ -1,0 +1,8 @@
+---
+label: template2
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  label: picture here
+  name: picture_here
