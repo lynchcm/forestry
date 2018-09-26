@@ -1,0 +1,13 @@
+---
+label: Test1 Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: put_your_text_here_please
+  label: Put your text here please
+  description: Let's see if this works
+- type: textarea
+  name: ooh_a_textarea
+  label: Ooh a textarea
+  description: Testy
