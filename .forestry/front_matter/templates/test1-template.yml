@@ -12,6 +12,5 @@ fields:
   label: Ooh a textarea
   description: Testy
 pages:
-- content/Folder2/Forestry4.md
 - content/My-second-Forestry-page.md
 - content/My-first-Forestry-page.md
