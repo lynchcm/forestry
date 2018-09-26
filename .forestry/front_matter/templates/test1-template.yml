@@ -11,3 +11,5 @@ fields:
   name: ooh_a_textarea
   label: Ooh a textarea
   description: Testy
+pages:
+- content/My-first-Forestry-page.md
